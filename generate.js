@@ -6,7 +6,7 @@ function generateQuote(){
         return data.json();
     })
     .then(data => {
-        console.log();
+        console.log(data.quote);
     })
 }
 /*
