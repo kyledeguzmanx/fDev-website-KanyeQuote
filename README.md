@@ -1,6 +1,6 @@
 # KANYE WEST QUOTE GENERATOR
 ## INTRODUCTION
-This is a quote generator to showcase random things Kanye West has said. Many developers have a random quote generator in their portfolio, and this is my take. This project had a few goals: experiment with APIs and the JS Fetch API, practice CSS Flexbox, and implement a video background. This project was successful in achieving those goals.
+This is a quote generator to showcase random things Kanye West has said. Many developers have a random quote generator in their portfolio, and this is my take. This project had a few goals: experiment with APIs and the JS Fetch API, practice CSS Flexbox, and implement a video background. This project was successful in achieving those technical goals; however, stylistically the site does not represent my expectations. In a future project, I am going to make a completely new and fresh attempt. 
 
 ## TECHNOLOGY USED
 Adobe Photoshop 2022  
