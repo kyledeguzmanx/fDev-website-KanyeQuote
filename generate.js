@@ -7,7 +7,7 @@ const apiURL = "https://api.kanye.rest/";
         return data.json();
     })
     .then(data => {
-        quote_content.textContent = data.quote;
+        quote_content.textContent = '"' +  data.quote + '."';
     })
 })();
 
