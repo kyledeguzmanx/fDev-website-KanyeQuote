@@ -1,6 +1,8 @@
 let quote_content = document.querySelector(".quote");
+let video_bg = document.querySelector("#myVideo");
 const apiURL = "https://api.kanye.rest/";
 
+video_bg.playbackRate  = 1.5;
 (function generateQuote(){
     fetch(apiURL)
     .then(data =>{
