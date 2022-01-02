@@ -1,7 +1,7 @@
 # KANYE WEST QUOTE GENERATOR
 
 ## TECHNOLOGY USED
-Adobe Photoshop 2022
+Adobe Photoshop 2022  
 Canva
 
 ## CREDITS
