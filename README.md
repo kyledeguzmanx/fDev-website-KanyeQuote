@@ -4,6 +4,11 @@
 Adobe Photoshop 2022  
 Canva
 
+## SCREENSHOTS
+![Screen1](https://github.com/kyledeguzmanx/fDev-website-KanyeQuote/blob/master/IMG/Screen1.png)
+![Screen2](https://github.com/kyledeguzmanx/fDev-website-KanyeQuote/blob/master/IMG/Screen2.png)
+![Screen3](https://github.com/kyledeguzmanx/fDev-website-KanyeQuote/blob/master/IMG/Screen3.png)
+
 ## CREDITS
 -[FullScreen Video Background Tutorial](https://www.w3schools.com/howto/howto_css_fullscreen_video.asp) by W3 Schools  
 
