@@ -11,4 +11,6 @@ Canva
 
 -[kanye.rest API](https://github.com/ajzbc/kanye.rest) by [Andrew Jazbec](https://github.com/ajzbc)  
 
+- Kanye West Performance Video by Amazon Music  
+
 -[Photoshop Essentials](https://www.photoshopessentials.com/photo-effects/transparent-text-area/)
